@@ -44,11 +44,11 @@ public class CorsConfig {
         public  String[] getMethodName() {
 
             
-            String[] produtos = new String[3];
+            String[] produtos = new String[4];
             produtos[0] = "TV Samsung";
             produtos[1] = "Apple Iphone";      
             produtos[2] = "Coluna bluetooth";
-
+            produtos[3] = "CAdeira Azul";
 
 
 
